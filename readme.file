@@ -1,0 +1,9 @@
+To run the application, follow the below mentioned steps
+Run the spring boot application main class
+Connect to the application on localhost:8080/
+Go to application console and choose pokemon name for each player
+The winner will be published as a response on the same html page.
+Re-trigger the end point localhost:8080, to simulate another battle
+
+Test Cases:
+1. One Junit test case has been added to simulate the test battle between 2 chosen pokemons
